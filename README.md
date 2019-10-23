@@ -1,0 +1,2 @@
+# COMP2119_HuffmanCoding
+HuffmanCoding
